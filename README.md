@@ -13,11 +13,11 @@
 5. 깃 연결
    git remote add origin [깃허브 주소]
 
-6. 깃 연결
+6. 깃 연결 확인
    git remote -v 
 
 7. 깃 푸쉬
    git push -u origin master
- 
+
 8.  깃 풀
    git pull origin master
